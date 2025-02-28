@@ -173,7 +173,28 @@
              </h2>
            </div>
            <p>
-             Esta parte es acerca de la pagina pero se puede poner cualquier ak, asi que ahi te va una
+             Esta parte es acerca de la pagina pero se puede poner cualquier ak, asi que ahi te va una Uh, summa-lumma, dooma-lumma, you assumin' I'm a human
+What I gotta do to get it through to you I'm superhuman?
+Innovative and I'm made of rubber so that anything
+You say is ricochetin' off of me, and it'll glue to you and
+I'm devastating, more than ever demonstrating
+How to give a motherfuckin' audience a feeling like it's levitating
+Never fading, and I know the haters are forever waiting
+For the day that they can say I fell off, they'll be celebrating
+'Cause I know the way to get 'em motivated
+I make elevating music, you make elevator music
+"Oh, he's too mainstream"
+Well, that's what they do when they get jealous, they confuse it
+"It's not hip-hop, it's pop, " 'cause I found a hella way to fuse it
+With rock, shock rap with Doc
+Throw on "Lose Yourself" and make 'em lose it
+I don't know how to make songs like that
+I don't know what words to use
+Let me know when it occurs to you
+While I'm rippin' any one of these verses that versus you
+It's curtains, I'm inadvertently hurtin' you
+How many verses I gotta murder to
+Prove that if you were half as nice, your songs you could sacrifice virgins too?
            </p>
            <a href="">
              Read More
