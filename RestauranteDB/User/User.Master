@@ -60,16 +60,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav  mx-auto ">
             <li class="nav-item active">
-              <a class="nav-link" href="Default.aspx">Home <span class="sr-only">(current)</span></a>
+              <a class="nav-link" href="Default.aspx">Inicio<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="Menu.aspx">Menu</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="About.aspx">About</a>
+              <a class="nav-link" href="About.aspx">Sobre Nosotros</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="Contact.aspx">Contact</a>
+              <a class="nav-link" href="Contact.aspx">Mesas</a>
             </li>
           </ul>
           <div class="user_option">
@@ -161,7 +161,7 @@
       <div class="col-md-4 footer-col">
         <div class="footer_contact">
           <h4>
-            Contact Us
+            Contactanos !!!!!!!!!!!
           </h4>
           <div class="contact_link_box">
             <a href="">
@@ -173,13 +173,13 @@
             <a href="">
               <i class="fa fa-phone" aria-hidden="true"></i>
               <span>
-                Call +01 1234567890
+                Call 381-6562565
               </span>
             </a>
             <a href="">
               <i class="fa fa-envelope" aria-hidden="true"></i>
               <span>
-                demo@gmail.com
+                BarFeane@gmail.com
               </span>
             </a>
           </div>
@@ -191,7 +191,7 @@
             Feane
           </a>
           <p>
-            Necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with
+            Hola
           </p>
           <div class="footer_social">
             <a href="">
