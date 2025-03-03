@@ -194,7 +194,7 @@
                 While I'm rippin' any one of these verses that versus you
                 It's curtains, I'm inadvertently hurtin' you
                 How many verses I gotta murder to
-                Prove that if you were half as nice, your songs you could sacrifice virgins too? Realy
+                Prove that if you were half as nice, your songs you could sacrifice virgins too? Realy XD
            </p>
            <a href="">
              Read More
